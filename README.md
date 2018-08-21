@@ -8,7 +8,7 @@ During the tutorial, feel free to get on the [Gitter `jupyterlab` channel](https
 By the end of this training you should be comfortable building multiple kinds of JupyterLab extensions. We will start with building a mimerender extensions, then a full fledged extension, and finally end with an extension that add some new core interface. We will close with Q&A, time permitting.
 
 
-*Schedule*:
+## Schedule
 
 * Installing JupyterLab
 * Tour of JupyterLab
