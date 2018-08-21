@@ -21,5 +21,26 @@
 * Q & A
 
 
-## Setup Miniconda
+## Setup your environment
 
+### Install Miniconda
+
+[Mac/Linux](https://conda.io/docs/user-guide/install/macos.html#install-macos-silent):
+
+```bash
+wget https://repo.continuum.io/miniconda/Miniconda3-3.7.0-Linux-x86_64.sh -O ~/miniconda.sh
+bash Miniconda3*.sh -b -p ~/miniconda
+source ~/miniconda/bin/activate
+```
+
+[Windows](https://conda.io/docs/user-guide/install/windows.html#install-win-silent)
+
+### Create environment
+
+```bash
+conda create -n jupyterlab-ext nodejs jupyterlab cookiecutter matplotlib scipy ipywidgets -c conda-forge
+conda activate jupyterlab-ext
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+```
+
+Test if it works by running `jplm --version`.
