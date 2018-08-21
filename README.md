@@ -24,6 +24,7 @@
 ## Setup your environment
 
 ### Install Miniconda
+First we want to install Miniconda which we will use to manage our Python environment:
 
 [Mac/Linux](https://conda.io/docs/user-guide/install/macos.html#install-macos-silent):
 
@@ -36,6 +37,7 @@ source ~/miniconda/bin/activate
 [Windows](https://conda.io/docs/user-guide/install/windows.html#install-win-silent)
 
 ### Create environment
+After you have the `conda` command installed, create an environment for these tutorials called `jupyterlab-ext`: 
 
 ```bash
 conda create -n jupyterlab-ext nodejs jupyterlab cookiecutter matplotlib scipy ipywidgets -c conda-forge
