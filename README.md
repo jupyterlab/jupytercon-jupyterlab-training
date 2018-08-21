@@ -45,4 +45,4 @@ conda activate jupyterlab-ext
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
-Test if it works by running `jplm --version`.
+Test if it works by running `jlpm --version`.
