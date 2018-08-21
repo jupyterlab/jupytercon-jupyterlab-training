@@ -1,1 +1,1 @@
-# jupytercon-jupyterlab-extension-tutorial
+# JupyterCon JupyterLab Extension Training
