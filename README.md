@@ -1,4 +1,4 @@
-# JupyterCon JupyterLab Extension Training
+# JupyterCon JupyterLab Training
 
 ## Goals
 
