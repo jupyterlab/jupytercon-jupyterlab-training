@@ -13,9 +13,13 @@
 * Installing JupyterLab
 * Tour of JupyterLab
 * 10:30 Break
-* Mimerender Tutorial
+* ![MP4 Mimerender Tutorial](https://github.com/jupyterlab/jupyterlab-mp4)
 * 12:30 Lunch
-* XKCD Tutorial
+* ![XKCD Tutorial](https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html)
 * Toolbar Button Tutorial
 * 3:30 Break
 * Q & A
+
+
+## Setup Miniconda
+
