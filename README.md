@@ -2,7 +2,7 @@
 
 This repository contain material and instructions to follow the JupyterLab training during JupyterCon 2018.
 
-During the tutorial, feel free to get on the [Gitter `jupyterlab` channel](https://gitter.im/jupyterlab/jupyterlab) for help and updates.
+During the training, feel free to get on the [Gitter `jupyterlab` channel](https://gitter.im/jupyterlab/jupyterlab) for help and updates.
 
 ## Goals
 By the end of this training you should be comfortable building multiple kinds of JupyterLab extensions. We will start with building a mimerender extensions, then a full fledged extension, and finally end with an extension that add some new core interface. We will close with helping you build your own extension, time permitting.
