@@ -38,6 +38,6 @@ conda activate jupyterlab-ext
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
-Test if it works by starting JupyterLab `jupyter lab`.
+Test that it works by starting JupyterLab `jupyter lab`.
 
 
