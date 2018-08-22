@@ -17,7 +17,7 @@ By the end of this training you should be comfortable building multiple kinds of
 * 12:30 Lunch
 * [XKCD Tutorial](https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html)
 * 3:30 Break
-* [Toolbar Button Tutorial](https://github.com/jupyterlab/runall-extension)
+* [Toolbar Button Tutorial](https://github.com/jupyterlab/runall-extension/blob/master/tutorial.md)
 * Build your own extension
 
 
