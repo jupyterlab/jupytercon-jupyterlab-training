@@ -16,9 +16,9 @@ By the end of this training you should be comfortable building multiple kinds of
 * [MP4 Mimerender Tutorial](https://github.com/jupyterlab/jupyterlab-mp4/blob/master/tutorial.md)
 * 12:30 Lunch
 * [XKCD Tutorial](https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html)
-* [Toolbar Button Tutorial](https://github.com/jupyterlab/runall-extension)
 * 3:30 Break
-* Q & A
+* [Toolbar Button Tutorial](https://github.com/jupyterlab/runall-extension)
+* Build your own extension
 
 
 ## Environment Setup
