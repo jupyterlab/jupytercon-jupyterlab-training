@@ -10,7 +10,7 @@ By the end of this training you should be comfortable building multiple kinds of
 
 ## Schedule
 
-* Environment Setup
+* [Environment Setup](#environment-setup)
 * [Tour of JupyterLab](https://github.com/jupyterlab/jupyterlab-demo)
 * 10:30 Break
 * [MP4 Mimerender Tutorial](https://github.com/jupyterlab/jupyterlab-mp4/blob/master/tutorial.md)
