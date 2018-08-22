@@ -23,7 +23,7 @@ By the end of this training you should be comfortable building multiple kinds of
 
 ## Environment Setup
 
-For this tutorial, we are standardizing on a miniconda-based python distribution.
+For this training, we are standardizing on a miniconda-based python distribution.
 We may not be able to help with installation issues if
 you are using a different python distribution.
 
